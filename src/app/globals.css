@@ -1,0 +1,43 @@
+@import "tailwindcss"; /* Import TailwindCSS utilities */
+
+/* Default (Light Mode) Theme */
+:root {
+  --background: #ffffff; 
+  --foreground: #171717; 
+  --color-primary: #007bff; 
+  --color-secondary: #ffcc00;
+}
+
+/* Dark Mode Theme */
+.dark {
+  --background: #0a0a0a; 
+  --foreground: #ededed; 
+  --color-primary: #ffcc00; 
+  --color-secondary: #007bff;
+}
+
+/* Global Styles */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+/* Primary button and text color */
+.bg-primary {
+  background-color: var(--color-primary);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+/* Secondary button and text color */
+.bg-secondary {
+  background-color: var(--color-secondary);
+}
+
+.text-secondary {
+  color: var(--color-secondary);
+}
