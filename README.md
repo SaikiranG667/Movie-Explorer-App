@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5680b68c-c38a-4839-a723-5ef736573d10)![image](https://github.com/user-attachments/assets/de08606d-9651-47a5-946e-0d21b18104a4)This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
 
@@ -66,28 +66,38 @@ Add dark mode support using Tailwind's dark mode.
  Iam using mongodb for storing login credentials
 
 Light mode
-![image](https://github.com/user-attachments/assets/fdbeeccb-7f2e-48bb-8640-af69d24e1f55)
+![Screenshot 2025-03-19 221902](https://github.com/user-attachments/assets/5f3be689-32ac-42bd-9e56-d990b9f40896)
+
+
 
 Dark mode
-![image](https://github.com/user-attachments/assets/40784f72-f0d9-4fd7-9afb-902221bd7c9a)
+![Screenshot 2025-03-19 222144](https://github.com/user-attachments/assets/7dcbd1eb-9237-4843-8f3c-1c856634e774)
+
 
 Register page
-![image](https://github.com/user-attachments/assets/0e450973-d657-4be7-8651-91a2bdab7e93)
+![Screenshot 2025-03-19 222333](https://github.com/user-attachments/assets/f146e865-d9a8-4426-8832-3d33894a7fb5)
+
 
 Login page
-![image](https://github.com/user-attachments/assets/e70ed2cf-19ac-408b-8d73-a2c472195fc2)
+![Screenshot 2025-03-19 222401](https://github.com/user-attachments/assets/8f044d69-03a9-4556-b207-d6c35f5783bc)
+
 
 Movie listing page
-![image](https://github.com/user-attachments/assets/99c53398-849b-46fc-8da9-0a8b47710fe9)
+![Screenshot 2025-03-19 222747](https://github.com/user-attachments/assets/6415a582-030f-47ca-a56a-c716102d7b74)
+
 
 Movie Detail Page
-![image](https://github.com/user-attachments/assets/f422ab2d-8dd9-4fb5-8c1a-64a887eac678)
+![Screenshot 2025-03-19 222938](https://github.com/user-attachments/assets/f1160ab8-4c0d-461b-b82c-b7bfee943db9)
+
 
 Favorites page
-![image](https://github.com/user-attachments/assets/479fc03b-b2ba-4d3e-9684-29c687274eb4)
+![Screenshot 2025-03-19 223035](https://github.com/user-attachments/assets/cc308d94-73c7-4f5d-b903-b6cd48386b39)
+
 
 Pagination
-![image](https://github.com/user-attachments/assets/bb4824e7-c4e2-4c3b-b002-68663d5de25b)
+![Screenshot 2025-03-19 225041](https://github.com/user-attachments/assets/8f0f1ecb-2f3f-4621-b46b-35d3ae921d0b)
+
+
 
 
 
